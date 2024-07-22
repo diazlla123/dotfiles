@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = diazlla123@gmail.com
+	name = Andres Diaz
